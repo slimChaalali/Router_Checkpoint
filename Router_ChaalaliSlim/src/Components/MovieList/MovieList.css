@@ -1,0 +1,11 @@
+.cardd{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    align-items: center;
+}

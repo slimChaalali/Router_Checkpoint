@@ -1,0 +1,18 @@
+.carde{
+margin-bottom: 200px;
+width: 30%;
+height: 700px;
+background-color:black;
+color: white;
+border-color: red;
+}
+
+.rate{
+    color: red;
+    background-color: black;
+}
+.carde:hover{
+    transform: scale(1.1);
+    box-shadow: 6px 6px 24px red;
+    cursor: pointer;
+}
